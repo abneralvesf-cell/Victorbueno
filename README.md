@@ -117,6 +117,7 @@
             <p>
 Victor Bueno, 25 anos, de São Paulo, é um criador de conteúdo autêntico e divertido, reconhecido por compartilhar seu dia a dia com humor, leveza e carisma. Seu objetivo é criar conexões genuínas com o público, transformando situações cotidianas em momentos de entretenimento e inspiração.
 
+
 <br>Apaixonado pelo universo digital, Victor está sempre explorando formas criativas de engajar e entreter pessoas que valorizam conteúdo espontâneo, real e cheio de personalidade.
             </p>
           </section>
