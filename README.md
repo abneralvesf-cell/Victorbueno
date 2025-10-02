@@ -101,7 +101,7 @@
           <h1>Victor Bueno</h1>
           <p>Criador de conteúdo digital — Lifestyle / Humor</p>
           <div class="social-links">
-            <a href="https://www.instagram.com/victrbueno/" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.instagram.com/vixtrbueno/" target="_blank"><i class="fab fa-instagram"></i></a>
             <a href="https://www.tiktok.com/@victrbueno" target="_blank"><i class="fab fa-tiktok"></i></a>
             <a href="https://www.facebook.com/victrbuenoo" target="_blank"><i class="fab fa-facebook-f"></i></a>
             <a href="https://www.youtube.com/@VictorBuenovlog" target="_blank"><i class="fab fa-youtube"></i></a>
